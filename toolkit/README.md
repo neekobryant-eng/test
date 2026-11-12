@@ -20,3 +20,11 @@ Requirements: Node with the `docx` package, LibreOffice (`soffice`), Poppler, Py
   topic-based titles. `WORDING_CHANGES.txt` lists what changed and the approved terms kept as-is.
 - `generator/content_plain.js` — content for this edition. Build it with
   `CONTENT=./content_plain node build.js <outDir>` (see `generator/run_plain.sh`).
+
+## Plain-language Version B
+
+- `output/Monterey_CLEAR_Plain_Language_Version_B/` — an alternate wording of the plain-language
+  edition (Version A) to choose from. Shorter, more conversational sentences and
+  "Topic: what it does" titles. `COMPARE_VERSION_A_AND_B.txt` lists the differences.
+- `generator/content_b.js` — build with `CONTENT=./content_b node build.js <outDir>`
+  (see `generator/run_b.sh`).

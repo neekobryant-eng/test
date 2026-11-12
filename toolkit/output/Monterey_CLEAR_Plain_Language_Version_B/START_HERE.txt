@@ -1,0 +1,67 @@
+COUNTY OF MONTEREY | DEPARTMENT OF SOCIAL SERVICES
+CLEAR Ownership: Staff Resource Toolkit — Plain-Language Version B
+November 12, 2026. An alternate wording of the Plain-Language Edition (Version A).
+See COMPARE_VERSION_A_AND_B.txt to choose between them.
+
+CONTENTS
+18 editable Word documents and 18 matching PDFs, organized into six topic folders.
+Each topic includes a one-page flyer, a one-page desk reference, and a two-page resource
+(24 unique content pages). Word and PDF editions contain matching content.
+
+1. CLEAR Communication Elements (CCEs)
+2. Decision Escalation: full Ladder of Inference
+3. Eisenhower Chart
+4. Blank seven-task RACI Chart
+5. Five Steps to a Respectful Reversal
+6. Six Steps for a Clear Request, including escalation and follow-up
+
+Monterey_CLEAR_Version_B_Complete_Reading_Copy.pdf combines all 24 pages in order, with PDF
+bookmarks for each topic and document type. It is flattened for preview and printing.
+
+HOW TO USE
+Flyer: post or share as a visual reminder (large type, one tool per page).
+Desk reference: keep near the work for a quick check or reusable worksheet.
+Resource: page 1 explains the tool; page 2 puts it to work with an example and a worksheet.
+
+ABOUT THIS EDITION
+Version B uses the same layout, artwork, and page counts as Version A. The wording is
+shorter and more conversational, and titles follow a "Topic: what it does" pattern.
+Approved training terms are unchanged, except Clear Request steps 5 and 6
+(see COMPARE_VERSION_A_AND_B.txt).
+
+RACI CHARTS
+All three RACI documents include seven blank task rows. Word tables are editable.
+Each RACI PDF has 35 fillable text fields (Task, R, A, C, I for rows 1–7). Use a PDF reader
+that supports form fields, then save a copy. The branch/team metadata lines can be completed
+in Word or by hand. No County role assignments have been prefilled.
+
+DESIGN AND BRANDING
+Typeface: Open Sans (matches the approved CLEAR training series). The Word files reference
+Open Sans; if it is not installed on a workstation, Word substitutes a similar sans-serif.
+Palette: DSS logo navy (#1C3E5F), teal (#3D829A), and light blue tints, matching the County's
+CLEAR Ownership staff fact sheet and training decks. Grey text (#5F6B73) for secondary copy.
+Naming: "County of Monterey" is used for the organization throughout, per Board Policy G-140
+(County of Monterey Branding Guidelines & Policies, June 2023), which also reserves the
+organization name "Monterey County" for the geographic area only.
+
+BRAND APPROVAL
+Use of the County of Monterey seal and DSS logo in this toolkit was approved by the Director
+in November 2026. Board Policy G-140 (County of Monterey Branding Guidelines & Policies)
+continues to govern logo clear space, minimum size, and future changes to the artwork.
+
+PRINTING
+US Letter, portrait. Print at actual size / 100%. Each resource is exactly two pages and can be
+printed double-sided. Each flyer and desk reference is one page.
+
+PROJECT SOURCE RECORDS AND PUBLIC MODEL SOURCES
+Unchanged from the source package (Monterey_CLEAR.zip, November 11, 2026):
+- Monterey_DSS_Communicating_CLEAR_FINAL_SERIES(1).pptx, slides 11–19 and 37–41
+- Communicating_CLEAR_Six_Element_Message_Template.docx
+- Decision_Escalation_Supervisor_County_of_Monterey_Nic_Training_Standard_Final.pptx, slides 8–9, 11–12
+- Safe_to_Decide_Supervisor_County_of_Monterey_Nic_Training_Standard_Final.pptx, slides 23–25
+- Time_Management_CLEAR_Training(1).pptx
+- Trevor Maber, TED-Ed, "Rethinking thinking"  https://ed.ted.com/lessons/rethinking-thinking-trevor-maber
+- USC Gould School of Law, "Understanding the Ladder of Inference"
+  https://gould.usc.edu/news/understanding-the-ladder-of-inference-navigating-cognitive-pitfalls/
+- FranklinCovey, The 5 Choices, Choice 1  https://www.franklincovey.com/courses/the-5-choices/choice-1/
+- Cornell IT, RACI and RASCI Definitions  https://it.cornell.edu/it-service-management/raci-and-rasci-definitions

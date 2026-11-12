@@ -1,0 +1,122 @@
+CLEAR Ownership Staff Resource Toolkit
+COMPARING VERSION A AND VERSION B
+
+Both versions use the same layout, County seal and DSS logo, page counts, and fillable
+RACI fields. Only the wording is different. Pick one version per topic, or one for the
+whole set.
+
+Version A (folder: Monterey_CLEAR_Plain_Language)
+  Plain, complete sentences. Titles name the tool, such as "How to Make a Clear Request".
+  Reads like a handbook.
+
+Version B (folder: Monterey_CLEAR_Plain_Language_Version_B)
+  Shorter and more conversational, with contractions such as "don't" and "you'll".
+  Titles follow a "Topic: what it does" pattern, such as "Clear Requests: Asking for a
+  Decision". Reads like a coworker explaining it.
+
+KEPT THE SAME IN BOTH
+- The six CCE element labels, which match the Six-Element Message Template.
+- The seven Ladder of Inference step names.
+- The four Eisenhower quadrant labels: ACT NOW, SCHEDULE, CHECK & ROUTE, REDUCE OR STOP.
+- The four RACI roles and their rules: at least one R and exactly one A per task.
+- The five Respectful Reversal steps: Recognize, Explain, Own, Direct, Clarify.
+- Clear Request steps 1-4.
+- The two-working-day response standard and every urgent-situation instruction.
+
+CLEAR REQUEST STEPS 5 AND 6
+  Training wording   5: Use the correct route and verify timing
+                     6: Track the reply and close the loop
+  Version A          5: Confirm who decides and when
+                     6: Track the reply and follow up
+  Version B          5: Check who decides and the deadline
+                     6: Follow up and share the outcome
+  Note: the training slides and the Professional Format Edition still use the training
+  wording. Align them, or note the difference, before release.
+
+SAMPLE WORDING
+  CCE flyer, element 2 ("Why / Why it is changing")
+    A: Why is the work or the change needed?
+    B: What is the reason?
+  Eisenhower Q3 (CHECK & ROUTE)
+    A: Confirm the request is real. Then route it, delegate it, or ask for more time, if
+       you have the authority.
+    B: Someone else's urgency. Confirm it, then pass it on, delegate it, or reset the
+       timeline if you're allowed to.
+  Respectful Reversal callout
+    A: Don't blame the person. No one should be blamed for following the direction they
+       were given.
+    B: No blame. People who followed the direction they were given did the right thing.
+
+TITLES, VERSION A vs VERSION B
+  01_CCEs_Flyer
+    A: CLEAR Communication Elements (CCEs)
+    B: CCEs: Six Parts of a Clear Message
+  01_CCEs_Desk_Reference
+    A: CCE Message Checklist
+    B: CCEs: Quick Message Check
+  01_CCEs_Resource (page 1)
+    A: Using the CLEAR Communication Elements
+    B: CCEs: A Guide for Leaders and Staff
+  01_CCEs_Resource (page 2)
+    A: Sample CCE Message
+    B: CCEs: Example and Practice
+  02_Ladder_of_Inference_Flyer
+    A: The Ladder of Inference
+    B: Ladder of Inference: Check the Facts
+  02_Ladder_of_Inference_Desk_Reference
+    A: Ladder of Inference Checklist
+    B: Ladder of Inference: Self-Check
+  02_Ladder_of_Inference_Resource (page 1)
+    A: Understanding the Ladder of Inference
+    B: Ladder of Inference: How Assumptions Form
+  02_Ladder_of_Inference_Resource (page 2)
+    A: Example: Checking an Assumption
+    B: Ladder of Inference: Example and Practice
+  03_Eisenhower_Chart_Flyer
+    A: The Eisenhower Chart
+    B: Eisenhower Chart: Sorting Your Work
+  03_Eisenhower_Chart_Desk_Reference
+    A: Eisenhower Chart Worksheet
+    B: Eisenhower Chart: Daily Sort
+  03_Eisenhower_Chart_Resource (page 1)
+    A: Using the Eisenhower Chart
+    B: Eisenhower Chart: Setting Priorities
+  03_Eisenhower_Chart_Resource (page 2)
+    A: Eisenhower Chart Examples and Planner
+    B: Eisenhower Chart: Examples and Planning
+  04_RACI_Chart_Flyer
+    A: RACI Chart
+    B: RACI Chart: Who Does What
+  04_RACI_Chart_Desk_Reference
+    A: Blank RACI Chart
+    B: RACI Chart: Blank Template
+  04_RACI_Chart_Resource (page 1)
+    A: Using a RACI Chart
+    B: RACI Chart: Assigning Roles
+  04_RACI_Chart_Resource (page 2)
+    A: RACI Chart Worksheet
+    B: RACI Chart: Team Worksheet
+  05_Respectful_Reversal_Flyer
+    A: Five Steps for a Respectful Reversal
+    B: Respectful Reversal: Changing Course
+  05_Respectful_Reversal_Desk_Reference
+    A: Respectful Reversal Checklist
+    B: Respectful Reversal: Conversation Guide
+  05_Respectful_Reversal_Resource (page 1)
+    A: How to Reverse a Decision Respectfully
+    B: Respectful Reversal: Leading Through a Change
+  05_Respectful_Reversal_Resource (page 2)
+    A: Respectful Reversal Example and Planner
+    B: Respectful Reversal: Example and Planning
+  06_Clear_Requests_Flyer
+    A: Six Steps for a Clear Request
+    B: Clear Requests: Asking for a Decision
+  06_Clear_Requests_Desk_Reference
+    A: Clear Request Checklist
+    B: Clear Requests: Before You Send
+  06_Clear_Requests_Resource (page 1)
+    A: How to Make a Clear Request
+    B: Clear Requests: Escalating the Right Way
+  06_Clear_Requests_Resource (page 2)
+    A: Clear Request Worksheet and Examples
+    B: Clear Requests: Worksheet and Examples
