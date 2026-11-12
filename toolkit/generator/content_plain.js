@@ -1,7 +1,7 @@
 // Plain-language alternate edition of the CLEAR Ownership Staff Resource Toolkit.
 // Approved training terms are unchanged: the six CCE element labels, the seven rung names,
-// the five reversal step names, the six request step names (including the approved Step 5
-// wording), the Eisenhower quadrant labels, and the RACI role names.
+// the five reversal step names, request steps 1–4, the Eisenhower quadrant labels, and the
+// RACI role names. Request steps 5 and 6 were reworded at the client's request.
 
 const CCE_SRC = 'Source: Communicating CLEAR training, final series, slides 11–19 and 37–41.';
 const LADDER_SRC = 'Source: Decision & Escalation training, Supervisor edition, slides 8–9. Model: Trevor Maber, TED-Ed, “Rethinking thinking.”';
@@ -58,8 +58,8 @@ const REQUEST = [
   'Check authority and boundaries',
   'Gather facts and required input',
   'Offer options and a recommendation',
-  'Use the correct route and verify timing', // approved revision; keep exact
-  'Track the reply and close the loop',
+  'Confirm who decides and when', // reworded at the client's request (training: "Use the correct route and verify timing")
+  'Track the reply and follow up', // reworded at the client's request (training: "Track the reply and close the loop")
 ];
 const zip = (labels, descs) => labels.map((l, i) => [l, descs[i]]);
 

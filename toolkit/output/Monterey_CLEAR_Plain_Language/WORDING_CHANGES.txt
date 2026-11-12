@@ -21,10 +21,17 @@ WHAT WAS NOT CHANGED
 - The four Eisenhower quadrant labels: ACT NOW, SCHEDULE, CHECK & ROUTE, REDUCE OR STOP.
 - The four RACI role names and their rules: at least one R and exactly one A per task.
 - The five Respectful Reversal steps: Recognize, Explain, Own, Direct, Clarify.
-- The six Clear Request step names, including the approved Step 5 wording,
-  "Use the correct route and verify timing."
+- Clear Request steps 1-4 (see the step 5 and 6 changes below).
 - The two-working-day response expectation and every urgent-situation instruction.
 - Layout, artwork, page counts, and the 35 fillable fields in each RACI PDF.
+
+CLEAR REQUEST STEP NAMES (reworded at the client's request)
+  Step 5  Before: Use the correct route and verify timing
+          After:  Confirm who decides and when
+  Step 6  Before: Track the reply and close the loop
+          After:  Track the reply and follow up
+  Note: the training materials and the Professional Format Edition still use the
+  original wording. Align them, or note the difference, before releasing both.
 
 TITLE CHANGES (Before -> After)
   01_CCEs_Flyer
