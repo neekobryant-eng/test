@@ -13,3 +13,10 @@ CLEAR Ownership toolkit (6 topics x flyer / desk reference / resource = 18 Word 
 
 Requirements: Node with the `docx` package, LibreOffice (`soffice`), Poppler, Python with
 `pdfplumber` and `pypdf`, and the Open Sans TTFs installed for PDF rendering.
+
+## Plain-language edition
+
+- `output/Monterey_CLEAR_Plain_Language/` — same layout and page counts, plainer wording and
+  topic-based titles. `WORDING_CHANGES.txt` lists what changed and the approved terms kept as-is.
+- `generator/content_plain.js` — content for this edition. Build it with
+  `CONTENT=./content_plain node build.js <outDir>` (see `generator/run_plain.sh`).

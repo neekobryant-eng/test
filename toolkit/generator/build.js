@@ -7,7 +7,7 @@ const {
   AlignmentType, BorderStyle, WidthType, ShadingType, VerticalAlign, TabStopType, LeaderType,
   PageNumber, ExternalHyperlink, TextDirection, HeightRule, PageBreak, LineRuleType,
 } = require('docx');
-const { DOCS, LADDER, QUADRANTS } = require('./content');
+const { DOCS, LADDER, QUADRANTS } = require(process.env.CONTENT || './content');
 
 const OUT = process.argv[2] || path.join(__dirname, 'out');
 const ASSETS = path.join(__dirname, 'assets');
@@ -72,7 +72,7 @@ const B = {
     return [p(kids, { before: 100, after: 0 })];
   },
   pagebreak: () => [],
-  defs: (b, d) => b.items.map(([k, v]) => p([run(`${k}:  `, { bold: true, color: C.navy, size: d.type === 'Flyer' ? 22 : 20 }), run(v, { size: d.type === 'Flyer' ? 22 : 20 })], { after: 80, indent: { left: 200, hanging: 200 } })),
+  defs: (b, d) => b.items.map(([k, v]) => p([run(`${k}${/[?:]$/.test(k) ? '' : ':'}  `, { bold: true, color: C.navy, size: d.type === 'Flyer' ? 22 : 20 }), run(v, { size: d.type === 'Flyer' ? 22 : 20 })], { after: 80, indent: { left: 200, hanging: 200 } })),
   links: (b) => {
     const kids = [run('Learn more:  ', { size: 16, bold: true, color: C.grey })];
     b.items.forEach(([label, url], i) => {

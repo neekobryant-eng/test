@@ -1,0 +1,101 @@
+CLEAR Ownership Staff Resource Toolkit — Plain-Language Edition
+WORDING CHANGES
+
+WHAT WAS CHANGED
+- Titles now name the tool and the document type. Slogans like "Make direction clear."
+  and "Change direction. Preserve trust." were replaced with titles such as
+  "CLEAR Communication Elements (CCEs)" and "Five Steps for a Respectful Reversal".
+- Section labels now say what the page is. "RESOURCE | UNDERSTAND THE TOOL" and
+  "PUT IT TO WORK" became "RESOURCE" and "RESOURCE (CONTINUED)", with the topic named.
+- Contrast phrasing ("Escalate a decision, not the whole problem", "Use by content, not by
+  channel", "Change the decision, not the person's standing") was rewritten as direct statements.
+- Formal words were replaced with everyday ones. Examples: "usable" became "clear";
+  "intact" became "the same"; "verified location" became "where to find it";
+  "route" became "process"; "decision boundary" became "limit"; "illustrative" became "made-up".
+- Long sentences were split, and instructions now speak directly to the reader ("you").
+- "Training basis:" became "Source:".
+
+WHAT WAS NOT CHANGED
+- The six CCE element labels, which match the Six-Element Message Template.
+- The seven Ladder of Inference step names.
+- The four Eisenhower quadrant labels: ACT NOW, SCHEDULE, CHECK & ROUTE, REDUCE OR STOP.
+- The four RACI role names and their rules: at least one R and exactly one A per task.
+- The five Respectful Reversal steps: Recognize, Explain, Own, Direct, Clarify.
+- The six Clear Request step names, including the approved Step 5 wording,
+  "Use the correct route and verify timing."
+- The two-working-day response expectation and every urgent-situation instruction.
+- Layout, artwork, page counts, and the 35 fillable fields in each RACI PDF.
+
+TITLE CHANGES (Before -> After)
+  01_CCEs_Flyer
+    Before: Make direction clear.
+    After:  CLEAR Communication Elements (CCEs)
+  01_CCEs_Desk_Reference
+    Before: CCEs: check the message
+    After:  CCE Message Checklist
+  01_CCEs_Resource (page 1)
+    Before: Clear messages, shared understanding
+    After:  Using the CLEAR Communication Elements
+  01_CCEs_Resource (page 2)
+    Before: A complete message example
+    After:  Sample CCE Message
+  02_Ladder_of_Inference_Flyer
+    Before: Check the facts before you act.
+    After:  The Ladder of Inference
+  02_Ladder_of_Inference_Desk_Reference
+    Before: From observation to action
+    After:  Ladder of Inference Checklist
+  02_Ladder_of_Inference_Resource (page 1)
+    Before: How the ladder shapes a decision
+    After:  Understanding the Ladder of Inference
+  02_Ladder_of_Inference_Resource (page 2)
+    Before: Turn an assumption into a useful question
+    After:  Example: Checking an Assumption
+  03_Eisenhower_Chart_Flyer
+    Before: Urgent is not the same as important.
+    After:  The Eisenhower Chart
+  03_Eisenhower_Chart_Desk_Reference
+    Before: Sort the work. Choose the next step.
+    After:  Eisenhower Chart Worksheet
+  03_Eisenhower_Chart_Resource (page 1)
+    Before: Choose priorities with purpose
+    After:  Using the Eisenhower Chart
+  03_Eisenhower_Chart_Resource (page 2)
+    Before: Move from a chart to a plan
+    After:  Eisenhower Chart Examples and Planner
+  04_RACI_Chart_Flyer
+    Before: Know who does what.
+    After:  RACI Chart
+  04_RACI_Chart_Desk_Reference
+    Before: Blank RACI chart
+    After:  Blank RACI Chart
+  04_RACI_Chart_Resource (page 1)
+    Before: Clarify the work and its owners
+    After:  Using a RACI Chart
+  04_RACI_Chart_Resource (page 2)
+    Before: Seven-task RACI worksheet
+    After:  RACI Chart Worksheet
+  05_Respectful_Reversal_Flyer
+    Before: Change direction. Preserve trust.
+    After:  Five Steps for a Respectful Reversal
+  05_Respectful_Reversal_Desk_Reference
+    Before: Five steps for a respectful reversal
+    After:  Respectful Reversal Checklist
+  05_Respectful_Reversal_Resource (page 1)
+    Before: Correct the work without blame
+    After:  How to Reverse a Decision Respectfully
+  05_Respectful_Reversal_Resource (page 2)
+    Before: A respectful reversal in practice
+    After:  Respectful Reversal Example and Planner
+  06_Clear_Requests_Flyer
+    Before: Make the request easy to answer.
+    After:  Six Steps for a Clear Request
+  06_Clear_Requests_Desk_Reference
+    Before: Six steps for a clear request
+    After:  Clear Request Checklist
+  06_Clear_Requests_Resource (page 1)
+    Before: Escalate a decision, not the whole problem
+    After:  How to Make a Clear Request
+  06_Clear_Requests_Resource (page 2)
+    Before: Prepare the request and the follow-up
+    After:  Clear Request Worksheet and Examples
